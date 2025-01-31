@@ -23,3 +23,7 @@
     --samantic-error:#dc2626;
 
 }
+
+body {
+    overflow: hidden;
+}
